@@ -1,0 +1,7 @@
+{
+    "title": "Title of the blog entry",
+    "introduction" : "this entry will be awesome, read it!",
+    "body" : "The whole blog entry",
+    "date" : "2019-10-10",
+    "labels" : ["label1", "label2"]
+}
